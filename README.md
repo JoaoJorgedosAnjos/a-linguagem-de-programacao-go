@@ -29,6 +29,8 @@ Os exercícios neste repositório estão organizados em diretórios que correspo
 ├── Capitulo-01/
 │   ├── exercicios/
 │       └── exercicio-1.1/
+            └── main.og
+            └── README.md  
         └── exercicio-1.2/
 ├── Capitulo-02/
 │   ├── ...
